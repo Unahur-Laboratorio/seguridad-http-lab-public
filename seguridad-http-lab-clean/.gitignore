@@ -1,0 +1,22 @@
+# Configuración local
+config.env
+
+# Certificados y claves generados por alumnos
+certs/*.key
+certs/*.crt
+certs/*.csr
+certs/*.pem
+certs/*.srl
+
+# Logs
+logs/*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Entregas y paquetes
+*.tar.gz
+*.zip
+evidencia.txt
+respuestas.md
